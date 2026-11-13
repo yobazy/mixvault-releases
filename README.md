@@ -13,6 +13,6 @@ MixVault isn't from an identified developer yet. Open it once, then go to **Syst
 
 ## A license key
 
-MixVault is $5 a month. Ask Baz for a license key and your codeword, then send the e-transfer each month with the codeword in the message. It renews by itself.
+MixVault is $8 a month. Ask Baz for a license key and your codeword, then send the e-transfer each month with the codeword in the message. It renews by itself.
 
 This repo only holds the installers; the source is private.
