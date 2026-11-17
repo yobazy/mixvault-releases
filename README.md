@@ -1,5 +1,7 @@
 # MixVault downloads
 
+More about MixVault: **https://getmixvault.pages.dev**
+
 MixVault is a desktop app for DJs: pull tracks from SoundCloud, YouTube and Spotify into one crate folder, check key, BPM and quality, and carry playlists into Rekordbox.
 
 ## Download (macOS)
