@@ -4,10 +4,11 @@ More about MixVault: **https://getmixvault.pages.dev**
 
 MixVault is a desktop app for DJs: pull tracks from SoundCloud, YouTube and Spotify into one crate folder, check key, BPM and quality, and carry playlists into Rekordbox.
 
-## Download (macOS)
+## Download
 
 - **Apple Silicon (M1 and later):** [MixVault-arm64.dmg](https://github.com/yobazy/mixvault-releases/releases/latest/download/MixVault-arm64.dmg)
 - **Intel Macs:** [MixVault-x64.dmg](https://github.com/yobazy/mixvault-releases/releases/latest/download/MixVault-x64.dmg)
+- **Windows (beta):** [MixVault-Setup.exe](https://github.com/yobazy/mixvault-releases/releases/latest/download/MixVault-Setup.exe). It isn't signed yet: when Windows says "Windows protected your PC", press **More info**, then **Run anyway**.
 
 ## Opening it the first time
 
